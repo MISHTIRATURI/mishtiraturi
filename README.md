@@ -1,16 +1,18 @@
 <h1 align="center">Hi 👋, I'm Mishti Raturi</h1>
 <h3 align="center">CSE Student | Java & DSA Learner | Web Development & AI/ML Enthusiast</h3>
 
-- Hi, I'm a CSE student [Machine Learning Project](https://github.com/MISHTIRATURI/mlproject)
+- Hi, I'm a CSE student currently working on [Machine Learning Project](https://github.com/MISHTIRATURI/mlproject)
 
-- Training models and generating predictions **Python • Pandas • NumPy • Scikit-learn**
+- Training models and generating predictions **Python • Pandas • NumPy • Kaggle**
 
 - Currently building an ML project [Data Preprocessing](https://github.com/MISHTIRATURI/datapreprocessing)
 
 - Cleaning and preparing data for ML models [Model Training & Prediction](https://github.com/MISHTIRATURI/modeltraining)
 
-- LinkedIn [https://www.linkedin.com/in/mishtiraturi/](https://www.linkedin.com/in/mishtiraturi/)
+- LinkedIn [https://www.linkedin.com/in/mishtiraturi/](https://www.linkedin.com/in/mishti-raturi/)
 
+- Currently working on building projects on front end development.
+  
 - Building & learning through projects **AI/ML**
 
 - Contact me **raturimishti09@gmail.com**
@@ -18,7 +20,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mishtiraturi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mishtiraturi" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/mishtiraturi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mishtiraturi" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
