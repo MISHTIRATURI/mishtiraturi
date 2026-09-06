@@ -9,7 +9,7 @@
 
 - Cleaning and preparing data for ML models [Model Training & Prediction](https://github.com/MISHTIRATURI/modeltraining)
 
-- LinkedIn [https://www.linkedin.com/in/mishtiraturi/](https://www.linkedin.com/in/mishti-raturi/)
+- LinkedIn [https://www.linkedin.com/in/mishtiraturi/](https://www.linkedin.com/in/mishti-raturi)
 
 - Currently working on building projects on front end development.
   
